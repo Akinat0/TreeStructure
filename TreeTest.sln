@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeTest", "TreeTest\TreeTest.csproj", "{AD22034D-4E64-4EDD-8106-EFDF72E941EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD22034D-4E64-4EDD-8106-EFDF72E941EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD22034D-4E64-4EDD-8106-EFDF72E941EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD22034D-4E64-4EDD-8106-EFDF72E941EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD22034D-4E64-4EDD-8106-EFDF72E941EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

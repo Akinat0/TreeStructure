@@ -1,0 +1,5 @@
+/Users/a.abumakhadi/RiderProjects/TreeTest/TreeTest/obj/Release/.NETFramework,Version=v4.6.2.AssemblyAttribute.cs
+/Users/a.abumakhadi/RiderProjects/TreeTest/TreeTest/bin/Release/TreeTest.pdb
+/Users/a.abumakhadi/RiderProjects/TreeTest/TreeTest/bin/Release/TreeTest.exe
+/Users/a.abumakhadi/RiderProjects/TreeTest/TreeTest/obj/Release/TreeTest.exe
+/Users/a.abumakhadi/RiderProjects/TreeTest/TreeTest/obj/Release/TreeTest.pdb
